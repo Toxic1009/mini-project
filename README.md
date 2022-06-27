@@ -1,4 +1,4 @@
-# mini-project
+
 
 #include <stdio.h>
 #include <stdlib.h>
